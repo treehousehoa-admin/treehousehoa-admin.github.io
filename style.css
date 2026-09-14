@@ -35,9 +35,9 @@ main {
 
 .logo {
   display: block;
-  width: 82px;
+  width: 52px;
   height: auto;
-  margin-bottom: 28px;
+  margin-bottom: 24px;
 }
 
 header {
@@ -106,8 +106,8 @@ footer {
   }
 
   .logo {
-    width: 72px;
-    margin-bottom: 24px;
+    width: 46px;
+    margin-bottom: 20px;
   }
 
   nav a {
